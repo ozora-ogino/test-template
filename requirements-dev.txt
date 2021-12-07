@@ -1,0 +1,5 @@
+# Dependencies for CI.
+pytest
+pytest-mock
+black
+pre-commit
